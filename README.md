@@ -11,7 +11,7 @@ An independent reanalysis of publicly available RNAseq data examining sex-specif
 
 Hypertrophic cardiomyopathy (HCM) is the most common inherited heart disease in both humans and cats [2], causing abnormal thickening of the heart muscle that impairs its ability to pump blood effectively. Feline HCM is characterized by both primary hypertrophy of the left ventricle and diastolic dysfunction [3] and is considered a model for human HCM [4].
 
-The original study by Joshua et al. (2025) characterized the mRNA and miRNA transcriptome of feline HCM using left ventricular and left atrial tissue from pet cats, identifying macrophage activation and inflammatory signaling as key features of advanced HCM. However, the original analysis focused exclusively on male cats and explicitly noted the absence of sex-based comparisons as a limitation.
+The original study by Joshua et al. (2025) characterized the mRNA and miRNA transcriptome of feline HCM using left ventricular and left atrial tissue from cats, identifying macrophage activation and inflammatory signaling as key features of advanced HCM. However, the original analysis focused exclusively on male cats and explicitly noted the absence of sex-based comparisons as a limitation.
 
 This project directly addresses that gap by performing a comparative analysis of male and female HCM transcriptomes, **aiming to understand if the transcriptional response to HCM is conserved between sexes, or if male and female cats show distinct disease signatures.**
 
