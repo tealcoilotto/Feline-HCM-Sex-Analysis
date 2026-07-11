@@ -166,13 +166,13 @@ Select HCM causal genes showed modest but still detectable dysregulation across 
   
 | Gene | Relevance [7,13,17-21] | Female HCM logFC | Male HCM logFC | Female HCM FDR | Male HCM FDR |
 |:-------:|:------:|:--------:|:--------:|:--------:|:--------:|
-| MYBPC3 | Encodes cardiac myosin binding protein C, which regulates contractile force in the heart, and its variants are the most common genetic cause of HCM | -0.551| -0.583 | .226| 0.0129 |
-| TNNT2  | Encodes cardiac troponin T and is linked to heart structural changes and severe arrhythmias | -0.239 | -0.212 | .703 | 0.466 |
-| MYH7 | Involved in cardiac muscle contraction and is linked to abnormal thickening of cardiac walls in HCM | -0.985 | -0.969 | .00226 | 0.0000293 |
-| MYL2 | Direct role in regulating myosin, controlling how the heart contracts, and is also linked to hypertrophy | 0.114 | -0.082 | .908 | 0.831 |
-| ACTC1 | Encodes α-actin, a key component for the cardiac filaments, and is related to muscle tension in HCM | 0.120 | 0.173 | .876| 0.765 |
+| MYBPC3 | Encodes cardiac myosin binding protein C, which regulates cardiac contractile force; MYBPC3 variants are the most common genetic cause of HCM | -0.551| -0.583 | .226| 0.0129 |
+| TNNT2  | Encodes cardiac troponin T; linked to heart structural changes and severe arrhythmias | -0.239 | -0.212 | .703 | 0.466 |
+| MYH7 | Involved in cardiac contraction; linked to abnormal thickening of cardiac walls in HCM | -0.985 | -0.969 | .00226 | 0.0000293 |
+| MYL2 | Direct role in regulating myosin, controlling how the heart contracts; linked to hypertrophy | 0.114 | -0.082 | .908 | 0.831 |
+| ACTC1 | Encodes α-actin, a key component for the cardiac filaments; related to muscle tension in HCM | 0.120 | 0.173 | .876| 0.765 |
 | TPM1 | Encodes α-tropomyosin and controls myosin binding availability, which dictates calcium-dependent cardiac contractions | 0.260 | 0.163 | .642 | 0.638 |
-| MYL3 | Encodes myosin essential light chain (ELC), a key structural component for the myosin head, which impacts myosin kinetics and heart hypercontractility in HCM | -0.0416 | -0.174 | .961 | 0.500 |
+| MYL3 | Encodes myosin essential light chain (ELC), a key structural component for the myosin head; impacts myosin kinetics and heart hypercontractility in HCM | -0.0416 | -0.174 | .961 | 0.500 |
 
 </div>
 <p align="center"><i>Table 3: Known Causal HCM Genes in Male and Female HCM Cats</i></p>
@@ -188,12 +188,12 @@ SPP1, MYBPC2, MCEMP1, ADAM8, CXCL14, and NPPB were evaluated as key genes of int
   
 | Gene | Relevance [5-10] | Female HCM logFC | Male HCM logFC | Female HCM FDR | Male HCM FDR |
 |:-------:|:------:|:--------:|:--------:|:--------:|:--------:|
-| MYBPC2 | Skeletal muscle parallel of MYBPC3, which is a major HCM causal gene, suggesting that disruption extends beyond cardiac expression | 5.47| 3.72 | 3.47e-14| 7.46e-16 |
+| MYBPC2 | Skeletal muscle parallel of MYBPC3, which is a major HCM causal gene | 5.47| 3.72 | 3.47e-14| 7.46e-16 |
 | CXCL14 | Chemokine involved in inflammatory and immune cell response of cardiac tissue in HCM | 2.62 | 4.02 | 3.47e-14 | 7.46e-16 |
 | SPP1 | Encodes osteopontin and drives cardiac fibrosis and remodeling, which are key aspects of human heart failure | 3.49 | 3.80 | 5.79e-5 | 9.83e-13 |
-| NPPB | Encordes BNP, the primary biomarker for heart failure in humans, and is a key tool in assessing disease severity | 5.15 | 5.08 | 1.89e-3 | 1.03e-11 |
-| MCEMP1 | Known biomarker for immune and inflammatory responses, linked to macrophage activation | 3.51 | 4.91 | 1.39e-2 | 1.84e-4 |
-| ADAM8 | Inflammatory and tissue remodeling enzyme driving myocardial fibrosis and is significantly upregulated in cardiac stress/failure | 2.12 | 1.92 | 3.57e-2 | 1.85e-4 |
+| NPPB | Encordes BNP, the primary biomarker for heart failure in humans; used to assess disease severity | 5.15 | 5.08 | 1.89e-3 | 1.03e-11 |
+| MCEMP1 | Known biomarker for immune and inflammatory responses; linked to macrophage activation | 3.51 | 4.91 | 1.39e-2 | 1.84e-4 |
+| ADAM8 | Inflammatory and tissue remodeling enzyme driving myocardial fibrosis; significantly upregulated in cardiac stress/failure | 2.12 | 1.92 | 3.57e-2 | 1.85e-4 |
 
 </div>
 
